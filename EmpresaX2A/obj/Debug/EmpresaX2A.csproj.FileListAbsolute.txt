@@ -1,0 +1,11 @@
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\bin\Debug\EmpresaX2A.exe.config
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\bin\Debug\EmpresaX2A.exe
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\bin\Debug\EmpresaX2A.pdb
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.Properties.Resources.resources
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.csproj.GenerateResource.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.exe
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.pdb
+C:\Users\marti\Documents\IFRO\2º  ano\Linguagem de Programação e PO2\2º semestre\3º bimestre\EmpresaX2A\EmpresaX2A\obj\Debug\EmpresaX2A.CadFun.resources
